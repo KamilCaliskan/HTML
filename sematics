@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            .all-browser{
+                margin:0;
+                padding:5px;
+                background-color:lightgray;
+            }
+            .all-browser>h1,.browser{
+                margin:10px;
+                padding:5px;
+            }
+            .browser{
+                background:white;
+            }
+            .browser>h2,p{
+                margin:4px;
+                font-size:90%;
+            }
+        </style>
+    </head>
+    <body>
+        <article class="all-browser">
+            <h1>most populer browser</h1>
+            <article class="browser">
+                <h2>Google chrome</h2>
+                <p>google chrome is q web browser developed by Google,relased in 2008.
+                    chrome is the world's most populer web browser today!
+                </p>
+            </article>
+            <article class="browser">
+                <h2>microsoft edge</h2>
+                <p>microsoft edge is a web browser developed by Microsoft,released in 2015.Microsoft
+                    edge replaced Internet Explorer
+                </p>
+            </article>
+            
+
+
+        </article>
+    </body>
+
+    
+</html>
