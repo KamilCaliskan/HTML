@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>my favorite language</title>
+</head>
+<body>
+<h2>language</h2>
+<p>choose your favorite ML language: </p>
+<form>
+	<input type="radio" id="openCV" name="fav_language"
+	value="openCV">
+	<label for="openCV">openCV</label><br>
+	<input type="radio" id="backend" name="fav_language"
+	value="backend">
+	<label for="fronted">fronted</label><br>
+</form>
+</body>
+</html>
