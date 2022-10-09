@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <h1>JavaScript String Methods</h1>
+        <p>Search a string method for the position of the math:</p>
+        <p id="demo"></p>
+
+        <script>
+            let word="You need to change your privacy setting in order for your portfolio to be seen by others bla blabla";
+            let k=word.search("setting");
+            document.getElementById("demo").innerHTML=k;
+
+        </script>
+    </body>
+    
+</html>
